@@ -13,6 +13,7 @@ grammar: G[N]
 VN: N,D
 rule1: N::=ND|D
 rule2: D::=0|1|2|3
+rule3: end
 ~~~
 
 **Note:** Don't use space when typing.
